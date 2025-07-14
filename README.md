@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hacksorcerer&color=green&style=for-the-badge)
 
 ## 🚀 About Me
-- 🎓 Graduated from IIT Roorkee in 2025 with a B.Tech degree.
+- 🎓 Graduated from IIT Roorkee, B.Tech Class of 2025.
 - 💻 Full Stack Developer specializing in Node.js, React.js, Express.js, and PostgreSQL.
 - 🏆 Solved over 1000 DSA problems across various coding platforms.
 - 🔬 Skilled in Web Development, Competitive Programming, and Computational Biology.
