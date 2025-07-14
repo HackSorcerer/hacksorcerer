@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Sarthak Awasthi
 ![Profile Views](https://komarev.com/ghpvc/?username=hacksorcerer&color=green&style=for-the-badge)
-### 🎓 Final Year Biotech Engineering Student @ IIT Roorkee
-Building things at the intersection of technology and biology. Gold Medalist at iGEM 2024 Paris.
 
 ## 🚀 About Me
-- 🧬 Currently pursuing B.Tech in Biosciences and Bioengineering at IIT Roorkee
-- 💻 Front End Developer with a passion for React.js,Tailwind,Material UI 
-- 🏆 Solved more than 500 problems in leetcode 
-- 🔬 Experience in Web Development , Competitive Programming and Computational Biology
-- 📸 Photography enthusiast 
+- 🎓 Graduated from IIT Roorkee in 2025 with a B.Tech degree.
+- 💻 Full Stack Developer specializing in Node.js, React.js, Express.js, and PostgreSQL.
+- 🏆 Solved over 1000 DSA problems across various coding platforms.
+- 🔬 Skilled in Web Development, Competitive Programming, and Computational Biology.
+- 📸 Enthusiastic about Photography.
 
 ## 🛠️ Tech Stack
 
