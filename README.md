@@ -48,7 +48,7 @@
 
 
 ## 🏆 Achievements
-- 🥇 Gold Medal at iGEM 2024 in Paris
+- 🥇 Gold Medal iGEM Paris 2024 
 - 📊 Selected for Amazon ML Summer School 2024
 - 🎯 AIR 7326 in JEE Advanced 2021
 - 📈 98.97 percentile in JEE Mains 2021
