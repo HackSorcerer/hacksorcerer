@@ -20,21 +20,6 @@
 **Backend:** Node.js, Express.js, Flask, PostgreSQL, MongoDB, AWS , Redis
 **Tools:** Git, VS Code, Figma , Cursor , Claude Code, Stitch
 
----
-
-## 🔭 Selected Projects
-- **iGEM Project Wiki** – Led frontend development, boosting global engagement by 30%  
-- **CPU Scheduler** – Real-time visualization tool using Flask & React  
-- **Stock Sentiment Analysis** – Analyzed 80,000+ tweets for market predictions  
-- **URL Shortener** – Full-stack app handling 500+ entries  
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacksorcerer&layout=compact&hide_title=true&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacksorcerer&theme=dark&hide_border=true)
 
 ---
 
